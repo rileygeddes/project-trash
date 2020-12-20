@@ -1,1 +1,2 @@
-# project-trash
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
